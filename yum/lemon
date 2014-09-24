@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>	
+	
+	<title>yum!</title>
+  </head>
+  <body>
+  <header>
+    <h1>Lemon Soup</h1>
+</header>
+<section>
+<h2>INGREDIENTS</h2> 
+  <ul> 
+     <li>8 cups Homemade Chicken Stock </li>
+     <li>2 cups uncooked orzo, (rice-shaped pasta)</li>
+     <li>1 teaspoon salt, or to taste</li>
+     <li>3.5 Cups milk</li>
+     <li> 1 Cup plus 2 tablespoons sugar</li>
+     <li>.25 Teaspoon coarse salf</li>
+     <li>1 cup heavy cream</li>
+  </ul>
+<p>
+  <h2>DIRECTIONS</h2>
+  <ol>
+    <li>In a large saucepan, bring 6 cups stock to a boil. Add orzo; cook until al dente, 10 minutes. Add salt and pepper.</li>
+    <li>Dissolve cornstarch in 1/2 cup water. Heat remaining 2 cups stock until hot; do not boil.</li>
+    <li>In an electric mixer, beat eggs with whisk until fluffy; add cornstarch mixture and lemon juice. 
+With mixer on medium-low speed, slowly add 1 to 2 cups hot stock until incorporated and mixture thickens slightly. Add any remaining stock to orzo.</li>
+    <li>Over low heat, slowly add egg mixture to orzo, stirring constantly until thickened and creamy. 
+Do not let it come to a boil; eggs will curdle. Serve immediately.
+</li>
+  </ol>
+</section>
+</body>
+</html>
