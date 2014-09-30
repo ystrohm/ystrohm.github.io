@@ -7,16 +7,26 @@ h1{
 	font-size:34px;
 	font-weight: bold;
 	font-family: helvetica;
+
 }
 h2{
 	font-size: 12px;
-	font-family: helvetica;
-
+	font-family: helvetica;}
+h2 
+{
+background: #f0f0f0;
+border: 1px solid #ddd;
+margin: 15px 0;
+padding: 15px;
 }
-<style>
-li{
-	text-align: left;
-	font-style: italic;
+
+
+
+lul.product_checklist {
+list-style: none; 
+margin: 0;
+padding: 0;
+}
 
 }
 div{
