@@ -10,7 +10,12 @@ h1{
 	}
 p{
 	text-align: left;
-	font-style: italic;
+	font-weight: italic; 
+}
+div{
+	border-width: 5px;
+	border-color:transparent;
+
 }	
 h2
 {
