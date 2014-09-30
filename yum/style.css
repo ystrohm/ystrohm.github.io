@@ -1,5 +1,8 @@
 
-<style>
+
+body
+{background-color:yellow; 
+}
 h2
 {
 text-transform: uppercase;
@@ -9,4 +12,3 @@ li
 
 
 }
-</style>
