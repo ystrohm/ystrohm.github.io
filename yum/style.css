@@ -8,6 +8,10 @@ h1{
 	h1{font-weight: bold;}
 	h1{font-family: helvetica;
 	}
+p{
+	text-align: left;
+	font-style: italic;
+}	
 h2
 {
 text-transform: uppercase;
