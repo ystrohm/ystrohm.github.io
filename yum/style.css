@@ -8,11 +8,10 @@ h1{
 	h1{font-weight: bold;}
 	h1{font-family: helvetica;
 	}
-list-style: {
+li-style: {
 	font-family:baskersville;
 	font-style: italic; 
 	font-size: 9px
-
 }
 div{
 	border-width: 5px;
