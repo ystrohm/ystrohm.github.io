@@ -15,8 +15,10 @@ p{
 div{
 	border-width: 5px;
 	border-color:transparent;
-
 }	
+.uppercase{
+	text-transform: uppercase;
+}
 h2
 {
 text-transform: uppercase;
