@@ -1,25 +1,36 @@
 
 body{
+
 	font-size: 12px;
 
 }
 h1{
 	margin-right: auto;
 	margin-left:auto;
-	padding:15px;
+	padding:25px;
+
 	
 
 }
 h2{
 	font-family:'Shift',sans-serif;
 
-
+}
+.containter{
+	height:400px;
+	width: 400px;
+	background-image:"images/luke.jpg";
 
 }
 
 .nav a {
   color:black;
-  font-size: 14px;}
+  font-size: 24px;
+  font-style: bold;
+  padding-top: 14px;
+  padding-bottom: 14px;
+
+}
 
 
   .nav li {
