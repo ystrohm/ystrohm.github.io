@@ -1,27 +1,20 @@
 
 body{
 	font-size: 12px;
-	font-style: normal;
-	padding: 20px;
-	margin: 15px;
-
 
 }
 h1{
 	margin-right: auto;
 	margin-left:auto;
 	padding:15px;
-	vertical-align: center;
-
 	
 
 }
-
 h2{
 	font-family:'Shift',sans-serif;
-	font-size: 12px;
-    font-style: bold;
-    vertical-align: 
+
+
+
 }
 
 .nav a {
@@ -29,6 +22,6 @@ h2{
   font-size: 14px;}
 
 
-  .nav{
+  .nav li {
   display: inline;
 }
