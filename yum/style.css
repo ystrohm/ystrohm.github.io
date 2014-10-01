@@ -8,17 +8,16 @@ body
 
 	}
 h1{
-	position: bottom-left;
+	
 	font-size:40px;
 	font-weight: bold;
 	font-family: helvetica;
 	padding-top: 10px;
 	padding-bottom: 15px;
 
-	
-
 }
 h2{
+	text-align: left;
 	font-size: 9px;
 	font-family: helvetica;
 }
