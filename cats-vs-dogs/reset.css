@@ -1,6 +1,7 @@
 
 body{
-
+    width: 750px;
+    font-family: "baskerville",serif;
 	font-size: 12px;
 	text-align: left;
 
@@ -14,6 +15,14 @@ h1{
 }
 h2{
 	font-family:'Shift',sans-serif;
+
+}
+nav{
+	text-align: center;
+	text-transform: uppercase;
+	font-style: bold;
+    float: normal;
+
 
 }
 
