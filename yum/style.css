@@ -7,7 +7,7 @@ body
 
 }
 h1{
-	position: absolute;
+	position: bottom-left;
 	font-size:40px;
 	font-weight: bold;
 	font-family: helvetica;
