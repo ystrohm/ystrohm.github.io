@@ -4,29 +4,43 @@ body
 {background-color:none; 
 	margin: 15px;
 	text-align: left;
+	font-style: normal;
 
-}
+	}
 h1{
 	position: bottom-left;
 	font-size:40px;
 	font-weight: bold;
 	font-family: helvetica;
-	text-transform: 90deg; 
+	padding-top: 10px;
+	padding-bottom: 15px;
 
+	
 
 }
 h2{
 	font-size: 9px;
 	font-family: helvetica;
-}	
+}
+.italic{
+		font-style: italic;
+	}	
 .uppercase{
 	text-transform: uppercase;
 }
 li
 {
-	list-style: none;}
+	list-style: none;
+	font-family: Baskerville,serif;
+    font-size: 50%;
+    font-style: italic;
+    line-height: 1.4em;
+}
 ol{
-
+    font-size: 50%;
+    font-family:sans-serif;
+    list-style:;
+    line-height: 1.4em;
 }
 
 
