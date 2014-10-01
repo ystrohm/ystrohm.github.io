@@ -1,6 +1,5 @@
 
 body{
-    width: 750px;
     font-family: "baskerville",serif;
 	font-size: 12px;
 	text-align: left;
@@ -10,10 +9,14 @@ body{
 h1{
 	margin-right: auto;
 	margin-left:auto;
-	padding:25px;
-
 }
+.uppercase{
+	text-transform: uppercase;
 h2{
+	width:250px;
+	float:left;
+	margin: 5px;
+	padding:5px;
 	font-family:'Shift',sans-serif;
 
 }
@@ -21,8 +24,7 @@ nav{
 	text-align: center;
 	text-transform: uppercase;
 	font-style: bold;
-    float: normal;
-
+	float: normal;
 
 }
 
