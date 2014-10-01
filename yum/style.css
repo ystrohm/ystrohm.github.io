@@ -28,12 +28,12 @@ h2{
 .uppercase{
 	text-transform: uppercase;
 }
-li
+ul
 {
 	list-style: none;
 	font-family: Baskerville,serif;
     font-size: 50%;
-    font-style: italic;
+    font-style: normal;
     line-height: 1.4em;
 }
 ol{
