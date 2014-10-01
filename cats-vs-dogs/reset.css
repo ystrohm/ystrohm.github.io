@@ -2,6 +2,8 @@
 body{
 
 	font-size: 12px;
+	text-align: left;
+
 
 }
 h1{
@@ -9,17 +11,9 @@ h1{
 	margin-left:auto;
 	padding:25px;
 
-	
-
 }
 h2{
 	font-family:'Shift',sans-serif;
-
-}
-.containter{
-	height:400px;
-	width: 400px;
-	background-image:"images/luke.jpg";
 
 }
 
@@ -29,6 +23,7 @@ h2{
   font-style: bold;
   padding-top: 14px;
   padding-bottom: 14px;
+
 
 }
 
