@@ -5,12 +5,13 @@ h1{
 
 }
 .nav a{
-	margin:10px;
-	padding:7px14px;
+	padding-top: 14px;
+    padding-bottom: 14px;
+    padding-left:10px;
+    padding-right:10px;
 	color:black;
 	text-transform:uppercase;
 	text-align:center;
-	font-size: 36px;
 	font-family:serif;
 	font-style:bold;
 }
@@ -19,7 +20,7 @@ body{
 	border: white;
 	padding:15ppx;
     font-family:"baskerville",serif;
-	font-size: 67px;
+	font-size: 24px;
 }
 .uppercase{
 	text-transform: uppercase;}
