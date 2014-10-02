@@ -4,21 +4,19 @@ h1{
 
 
 }
-nav{
+nav li{
 	color:black;
 	text-transform:uppercase;
 	text-align:center;
 	font-family:serif;
 	font-style:bold;
-	font-size: 45px;
-	width: 700px}
+	font-size: 33px;
 
 }
 body{
-	width: 900px;
 	margin: 20px;
 	border: white;
-	padding:15px;
+	padding:15ppx;
     font-family:"baskerville",serif;
 	font-size: 24px;
 }
