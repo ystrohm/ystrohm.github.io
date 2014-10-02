@@ -5,15 +5,13 @@ h1{
 
 }
 nav{
-	padding-top: 14px;
-    padding-bottom: 14px;
-    padding-left:10px;
-    padding-right:10px;
 	color:black;
 	text-transform:uppercase;
 	text-align:center;
 	font-family:serif;
 	font-style:bold;
+	font-size: 45px;
+	width: 900px}
 
 }
 body{
