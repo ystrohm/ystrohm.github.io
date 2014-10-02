@@ -4,7 +4,7 @@ h1{
 
 
 }
-li{
+nav li{
 	color:black;
 	text-transform:uppercase;
 	text-align:center;
@@ -15,10 +15,9 @@ li{
 }
 body{
 	margin: 20px;
-	border: white;
-	padding:15ppx;
+	padding:15px;
     font-family:"baskerville",serif;
-	font-size: 24px;
+	font-size: 33px;
 }
 .uppercase{
 	text-transform: uppercase;}
@@ -34,6 +33,6 @@ h2{
 	}
 	p{
 	   width: 400px;
-	   text-align: left;
+	   
 
 }
