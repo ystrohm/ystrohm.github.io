@@ -1,23 +1,20 @@
 
 h1{
-	text-align: center;
+	text-align:center;
 
 }
-nav{
+.nav a{
 	margin:10px;
 	padding:7px14px;
 	color:black;
-	text-transform: uppercase;
-	text-align: center;
-	font-family: serif;
-	font-style: bold;
-
+	text-transform:uppercase;
+	text-align:center;
+	font-family:serif;
+	font-style:bold;
 }
 body{
-    font-family: "baskerville",serif;
+    font-family:"baskerville",serif;
 	font-size: 24px;
-	
-
 }
 .uppercase{
 	text-transform: uppercase;}
