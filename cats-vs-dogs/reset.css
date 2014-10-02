@@ -14,6 +14,7 @@ nav{
 
 }
 body{
+	width: 800px;
 	margin: 20px;
 	padding:15px;
     font-family:"baskerville",serif;
@@ -34,10 +35,9 @@ h2{
 	text-align: left;
 	}
 	p{
-	   width: 400px;
 	   margin: 25px;
 	   padding: 25px;
-	   
+
 	   
 
 }
