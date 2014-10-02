@@ -5,6 +5,7 @@ h1{
 
 }
 nav{
+	position: relative;
 	color:black;
 	text-transform:uppercase;
 	text-align:center;
@@ -33,6 +34,9 @@ h2{
 	font-family:'Shift',sans-serif;
 	font-size: 50px;
 	text-align: left;
+	}
+	.width{
+		width: 500px;
 	}
 	p{
 	   margin: 25px;
