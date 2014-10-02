@@ -1,5 +1,7 @@
+
 h1{
 	text-align: center;
+
 }
 nav{
 	margin:10px;
@@ -9,11 +11,10 @@ nav{
 	text-align: center;
 	font-family: serif;
 	font-style: bold;
-
 }
 body{
     font-family: "baskerville",serif;
-	font-size: 12px;
+	font-size: 24px;
 	text-align: left;
 
 }
@@ -24,25 +25,8 @@ body{
 }
 h2{
 	width:250px;
-	margin: 5px;
+	margin:5px;
 	padding:5px;
 	font-family:'Shift',sans-serif;
 
-}
-.nav a {
-	text-align: center;
-
-  color:black;
-  font-size: 24px;
-  font-style: bold;
-  padding-top: 14px;
-  padding-bottom: 14px;}
-
-
-
-}
-
-
-  .nav li {
-  display: inline;
 }
