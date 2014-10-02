@@ -1,7 +1,12 @@
 
+
+body{
+    font-family: "baskerville",serif;
+	font-size: 12px;
+	text-align: left;
 li{
 
-	float:none;
+	float:left;
 	margin:10px;
 	padding:7px14px;
 	color:black;
@@ -9,15 +14,9 @@ li{
 	text-align: center;
 	font-family: serif;
 	font-style: bold;
-	font-size: 88;
-
-
+	font-size: 36;
 }
 
-body{
-    font-family: "baskerville",serif;
-	font-size: 12px;
-	text-align: left;
 
 
 }
@@ -39,13 +38,6 @@ h2{
 	font-family:'Shift',sans-serif;
 
 }
-nav{
-	text-align: center;
-	text-transform: uppercase;
-	font-style: bold;
-	float: right;
-
-}
 
 .nav a {
 	text-align: center;
@@ -54,13 +46,5 @@ nav{
   font-size: 24px;
   font-style: bold;
   padding-top: 14px;
-  padding-bottom: 14px;}
-
-
-
-}
-
-
-  .nav li {
-  display: inline;
+  padding-bottom: 14px;
 }
