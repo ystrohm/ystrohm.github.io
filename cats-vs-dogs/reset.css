@@ -1,10 +1,11 @@
 
 h1{
 	text-align:center;
-	
+
 
 }
 .nav a{
+	vertical-align: center;
 	margin:10px;
 	padding:7px14px;
 	color:black;
@@ -14,11 +15,12 @@ h1{
 	font-style:bold;
 }
 body{
-	margin: 20px;
+	width: 250px
+	margin: 120px;
 	border: white;
-	padding:15px;
+	padding:150px;
     font-family:"baskerville",serif;
-	font-size: 24px;
+	font-size: 64px;
 }
 .uppercase{
 	text-transform: uppercase;}
