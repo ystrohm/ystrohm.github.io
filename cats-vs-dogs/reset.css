@@ -16,12 +16,12 @@ h1{
 	font-style:bold;
 }
 body{
-	width: 250px
+	width: 250px;
 	margin: 120px;
 	border: white;
 	padding:150px;
     font-family:"baskerville",serif;
-	font-size: 64px;
+	font-size: 34px;
 }
 .uppercase{
 	text-transform: uppercase;}
@@ -29,7 +29,7 @@ body{
 	<img class="pic" src="images/luke.jpg" width="400" height="400"
 }
 h2{
-	width:250px;
+	width:275px;
 	margin:5px;
 	padding:5px;
 	font-family:'Shift',sans-serif;
