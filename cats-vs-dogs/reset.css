@@ -1,27 +1,28 @@
 
 h1{
 	text-align:center;
-	text-transform:200px;
-
 
 }
 .nav a{
+    font-size: 73px;
+	width: 800px;
 	vertical-align: center;
 	margin:10px;
 	padding:7px14px;
 	color:black;
+	list-style: none;
 	text-transform:uppercase;
 	text-align:center;
 	font-family:serif;
 	font-style:bold;
 }
 body{
-	width: 250px;
-	margin: 120px;
+	width: 400px
+	margin: 20px;
 	border: white;
 	padding:150px;
     font-family:"baskerville",serif;
-	font-size: 34px;
+	font-size: 64px;
 }
 .uppercase{
 	text-transform: uppercase;}
@@ -29,7 +30,7 @@ body{
 	<img class="pic" src="images/luke.jpg" width="400" height="400"
 }
 h2{
-	width:275px;
+	width:250px;
 	margin:5px;
 	padding:5px;
 	font-family:'Shift',sans-serif;
