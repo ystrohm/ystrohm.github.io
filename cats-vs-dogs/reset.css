@@ -4,7 +4,7 @@ h1{
 
 
 }
-nav{
+li{
 	color: red;
 	position: relative;
 	color:black;
@@ -16,8 +16,7 @@ nav{
 
 }
 body{
-	color: yellow;
-	padding-left: 10px;
+
 	width: 1800px;
 	margin: 20px;
 	padding:15px;
