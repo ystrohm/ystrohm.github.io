@@ -9,6 +9,7 @@ nav{
 	font-family: serif;
 
 }
+
 body{
     font-family: "baskerville",serif;
 	font-size: 12px;
@@ -17,8 +18,9 @@ body{
 
 }
 h1{
-	margin-right: auto;
-	margin-left:auto;
+	text-align: center;
+
+}
 }
 .uppercase{
 	text-transform: uppercase;}
