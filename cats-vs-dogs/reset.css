@@ -1,20 +1,19 @@
 
 nav{
-	float:right;
+	
 	margin:10px;
 	padding:7px14px;
 	color:black;
 	text-transform: uppercase;
 	text-align: center;
 	font-family: serif;
+	font-style: bold;
 
 }
 body{
     font-family: "baskerville",serif;
 	font-size: 12px;
 	text-align: left;
-	mar
-
 
 }
 h1{
