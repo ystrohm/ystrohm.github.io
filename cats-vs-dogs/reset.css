@@ -22,6 +22,18 @@ body{
 
 
 }
+li{
+
+	float:right;
+	margin:10px;
+	padding:7px14px;
+	color:black;
+	text-transform: uppercase;
+	text-align: center;
+	font-family: serif;
+	font-style: bold;
+	word-spacing:16px; 
+	font-size: 24px;
 h1{
 	text-align: center;
 
