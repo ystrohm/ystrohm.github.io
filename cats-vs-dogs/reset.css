@@ -14,10 +14,10 @@ nav{
 
 }
 body{
-	margin: 25px;
-	padding:25px;
+	margin: 20px;
+	padding:15px;
     font-family:"baskerville",serif;
-
+	font-size: 33px;
 }
 .uppercase{
 	text-transform: uppercase;}
@@ -25,7 +25,7 @@ body{
 	<img class="pic" src="images/luke.jpg" width="400" height="400"
 }
 h2{
-	
+	float:none;
 	width:900px;
 	margin:25px;
 	padding:25px;
@@ -34,7 +34,10 @@ h2{
 	text-align: left;
 	}
 	p{
-		width:900px;
-	margin:25px;
-	padding:25px;
-	}
+	   width: 400px;
+	   margin: 25px;
+	   padding: 25px;
+	   
+	   
+
+}
