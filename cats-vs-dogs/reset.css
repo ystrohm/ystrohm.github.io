@@ -11,13 +11,14 @@ nav{
 	font-family:serif;
 	font-style:bold;
 	font-size: 45px;
-	width: 900px}
+	width: 700px}
 
 }
 body{
+	width: 900px;
 	margin: 20px;
 	border: white;
-	padding:15ppx;
+	padding:15px;
     font-family:"baskerville",serif;
 	font-size: 24px;
 }
