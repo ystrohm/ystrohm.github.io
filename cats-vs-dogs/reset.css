@@ -25,14 +25,15 @@ body{
 	<img class="pic" src="images/luke.jpg" width="400" height="400"
 }
 h2{
-	float:left;
-	width:400px;
-	margin:5px;
-	padding:5px;
+	float:none;
+	width:900px;
+	margin:25px;
+	padding:25px;
 	font-family:'Shift',sans-serif;
 	}
 	p{
 	   width: 400px;
+	   vertical-align: left;
 	   
 
 }
