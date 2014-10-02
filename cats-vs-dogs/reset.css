@@ -5,6 +5,7 @@ h1{
 
 }
 nav{
+	color: red;
 	position: relative;
 	color:black;
 	text-transform:uppercase;
@@ -15,6 +16,7 @@ nav{
 
 }
 body{
+	color: yellow;
 	width: 1800px;
 	margin: 20px;
 	padding:15px;
