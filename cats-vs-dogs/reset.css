@@ -5,8 +5,7 @@ h1{
 
 }
 .nav{
-	color: red;
-	position: relative;
+
 	color:black;
 	text-transform:uppercase;
 	text-align:center;
@@ -17,7 +16,7 @@ h1{
 }
 li{
 	float: left;
-	
+
 }
 body{
 
