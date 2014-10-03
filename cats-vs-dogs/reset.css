@@ -15,6 +15,10 @@ h1{
 	font-size: 33px;
 
 }
+li{
+	float: left;
+	
+}
 body{
 
 	width: 1800px;
