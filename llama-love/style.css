@@ -8,5 +8,8 @@ p{
 	font-family: serif;
 	font-size: 9px;
 	text-align: left;
-	
+
+}
+article{
+	float: left;
 }
