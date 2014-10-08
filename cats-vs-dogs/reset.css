@@ -71,10 +71,12 @@ header{
 	word-spacing: 15px;
 
 }
+ul{
+	word-spacing: 10px;
+}
 li{
 	float: right;
 	text-align: center;
-	word-spacing: 55px;
 	position: absolute;
 	right: 220px;
 
