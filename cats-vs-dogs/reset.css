@@ -121,7 +121,7 @@ article{
     word-spacing: 5px;
 }
 #float{
-	float: left;
+	float: right;
 	clear: right;
 }
 
