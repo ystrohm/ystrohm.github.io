@@ -100,8 +100,8 @@ h2{
 	width:400px;
 	margin:0 auto;
 	padding:0px;
-	font-family:'Shift',sans-serif;
-	font-size: 40px;
+	font-family:"Shift",sans-serif;
+	font-size: 30px;
 	text-align: left;
 	}
 article{
@@ -120,5 +120,8 @@ article{
     text-align: center;
     word-spacing: 5px;
 }
-
+#float{
+	float: left;
+	clear: right;
+}
 
