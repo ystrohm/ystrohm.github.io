@@ -60,14 +60,14 @@ header{
 }
 
 .nav{
-	width: 700px;
+	width: 600px;
     text-align: center;
 	color:black;
 	text-transform:uppercase;
 	text-align:center;
 	font-family:serif;
 	font-style:bold;
-	font-size: 33px;
+	font-size:28px;
 
 }
 li{
@@ -77,18 +77,18 @@ li{
 
 }
 body{
-	width: 1600px;
+	width: 960px;
 	margin: 0 auto;
 	padding:15px;
     font-family:"baskerville",serif;
 	font-size: 33px;
 }
 p{
-width: 700px;
+width: 400px;
 
 }
 .width{
-	width: 700px;
+	width: 400px;
 }
 
 .uppercase{
@@ -97,15 +97,15 @@ width: 700px;
 	<img class="pic" src="images/luke.jpg" width="400" height="400"
 }
 h2{
-	width:700px;
-	margin:5px;
-	padding:5px;
+	width:400px;
+	margin:0 auto;
+	padding:0px;
 	font-family:'Shift',sans-serif;
 	font-size: 50px;
 	text-align: left;
 	}
 article{
-	   width: 700px;
+	   width: 400px;
 	   margin: 5px;
 	   padding: 5px;
 
