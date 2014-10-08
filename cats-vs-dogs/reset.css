@@ -123,6 +123,8 @@ article{
 #float{
 	float: right;
 	clear: left;
+	position: absolute;
+	
 
 }
 
