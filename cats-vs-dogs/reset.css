@@ -75,17 +75,23 @@ h1{
 
 }
 li{
-	float: left;
+	float: right;
 	text-align: center;
 
 
 }
 body{
-	width: 1000px;
+	width: 1800px;
 	margin: 20px;
 	padding:15px;
     font-family:"baskerville",serif;
 	font-size: 33px;
+}
+p{
+	 width: 700px;
+	   margin: 5px;
+	   padding: 5px;
+
 }
 
 .uppercase{
@@ -114,15 +120,11 @@ article{
 	padding:10px;
 }
 #left{
-	float: right;
-	position: absolute;
-	top: 30px;
-	left: 60px;	
+	float: left;
+	
 }
 #right{
-	float: left;
-	position: absolute;
-	top: 30px;
-	right: 60px;
+	float: right;
+
 }	   
 
