@@ -122,6 +122,7 @@ article{
 }
 #float{
 	float: right;
-	clear: right;
+	clear: left;
+
 }
 
