@@ -121,6 +121,7 @@ article{
   #container li { 
     float:right; 
     text-align: center;
+    word-spacing: 5px;
 }
 
 
