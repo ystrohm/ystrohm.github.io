@@ -112,13 +112,13 @@ article{
 #left{
 	float: right;
 	position: absolute;
-	top: 15px;
-	left: 0px;	
+	top: 30px;
+	left: 60px;	
 }
 #right{
 	float: left;
 	position: absolute;
-	top: 15px;
-	right: 0px;
+	top: 30px;
+	right: 60px;
 }	   
 
