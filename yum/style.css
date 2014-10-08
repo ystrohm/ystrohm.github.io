@@ -41,7 +41,15 @@ ol{
     list-style:;
     line-height: 1.4em;
 }
+#container {
+	width: 700px;
+	margin: 0 auto;
+	padding: 10px;
 
+}
+img {
+	float: right;
+}
 
 
 
