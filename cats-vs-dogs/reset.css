@@ -71,7 +71,6 @@ header{
 
 }
 li{
-	width: 1100px;
 	float: right;
 	text-align: center;
 
@@ -121,11 +120,11 @@ article{
     text-align: center;
     word-spacing: 5px;
 }
-#float{
+.float{
 	float: right;
 	clear: left;
 	position: absolute;
-
+	top: 350px;
 
 }
 
