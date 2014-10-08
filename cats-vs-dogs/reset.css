@@ -97,13 +97,10 @@ h2{
 	font-size: 50px;
 	text-align: left;
 	}
-	p{
-	   margin: 25px;
-	   padding: 25px;
-
-}.width{
-	width: 700px;
-	padding: 5px;
+p{
+	   width: 700px;
+	   margin: 5px;
+	   padding: 5px;
 
 }
 #container {
