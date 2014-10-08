@@ -71,7 +71,8 @@ header{
 
 }
 li{
-	float: right;
+	width:960px;
+	float:right;
 	text-align: center;
 
 
@@ -124,7 +125,7 @@ article{
 	float: right;
 	clear: left;
 	position: absolute;
-	
+
 
 }
 
