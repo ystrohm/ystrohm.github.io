@@ -59,7 +59,7 @@ header{
 
 }
 
-.nav{
+.nav li{
 	width: 960px;
     text-align: center;
 	color:black;
@@ -70,12 +70,7 @@ header{
 	font-size:28px;
 
 }
-li{
-	float: right;
-	text-align: center;
 
-
-}
 body{
 	width: 960px;
 	margin: 0 auto;
