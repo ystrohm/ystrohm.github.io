@@ -114,7 +114,7 @@ article{
 	padding:10px;
 }
 #left{
-	float: left;
+	float: right;
 	position: absolute;
 	top: 30px;
 	left: 60px;	
