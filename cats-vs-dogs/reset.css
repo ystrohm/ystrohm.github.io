@@ -59,7 +59,6 @@ h1{
 
 }
 
-}
 .nav{
 	width: 700px;
     text-align: center;
@@ -101,7 +100,7 @@ h2{
 	p{
 	   margin: 25px;
 	   padding: 25px;
-}
+
 }
 #container {
 	position: relative;
@@ -122,4 +121,3 @@ h2{
 	right: 0px;
 }	   
 
-}
