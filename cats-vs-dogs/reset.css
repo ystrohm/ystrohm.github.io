@@ -119,6 +119,7 @@ article{
     margin:10px;
  }
   #container li { 
+  	position: relative;
     float:right; 
     text-align: center;
     word-spacing: 5px;
