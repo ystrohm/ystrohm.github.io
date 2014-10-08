@@ -115,10 +115,7 @@ article{
 	   padding: 5px;
 
 }	   
-#container  {
-    position:absolute;
- 
- }
+
   #container li { 
   	position: relative;
   	right: 550px
