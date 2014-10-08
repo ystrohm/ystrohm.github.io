@@ -60,7 +60,7 @@ header{
 }
 
 .nav{
-	width: 600px;
+	width: 960px;
     text-align: center;
 	color:black;
 	text-transform:uppercase;
@@ -112,11 +112,7 @@ article{
 }	   
 #container  {
     position:absolute;
-    top:400px;
-    right:900px;
-    float:right;
-    padding:10px;
-    margin:10px;
+ 
  }
   #container li { 
   	position: relative;
