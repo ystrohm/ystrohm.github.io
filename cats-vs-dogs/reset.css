@@ -60,10 +60,6 @@ h1{
 }
 
 .nav{
-	position: relative;
-	top: 25px;
-	right:15px;
-	float: left;
 	width: 700px;
     text-align: center;
 	color:black;
