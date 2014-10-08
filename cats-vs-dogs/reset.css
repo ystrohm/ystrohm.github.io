@@ -54,7 +54,7 @@ table {
 
 
 
-h1{
+header{
 	text-align:center;
 
 }
@@ -77,14 +77,18 @@ li{
 
 }
 body{
-	width: 1800px;
-	margin: 20px;
+	width: 1000px;
+	margin: 0 auto;
 	padding:15px;
     font-family:"baskerville",serif;
 	font-size: 33px;
 }
 p{
+width: 700px;
 
+}
+.width{
+	width: 700px;
 }
 
 .uppercase{
