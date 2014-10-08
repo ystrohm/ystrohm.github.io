@@ -60,9 +60,10 @@ h1{
 }
 
 .nav{
+	position: relative;
 	width: 700px;
     text-align: center;
-	color:red;
+	color:black;
 	text-transform:uppercase;
 	text-align:center;
 	font-family:serif;
