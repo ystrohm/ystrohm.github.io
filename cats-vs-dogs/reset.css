@@ -58,7 +58,7 @@ table {
 
 header{
 	text-align:center;
-	
+
 
 }
 h1{
@@ -81,14 +81,17 @@ font-size: 25px;
 a{
 	text-align: center;
 	padding: 5px;
-	word-spacing: 25px;
-}
+	
 li{
 	float: right;
 	text-align: center;
 	position: absolute;
 	right: 220px;
-
+    word-spacing: 25px;
+}
+.word-space{
+	word-spacing: 20px;
+}
 
 }
 body{
