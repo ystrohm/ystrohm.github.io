@@ -60,9 +60,10 @@ header{
 	text-align:center;
 
 }
-
-.nav{
+h1{
 	padding-bottom: 20px;
+}
+.nav{
 	width: 960px;
     text-align: center;
 	color:black;
