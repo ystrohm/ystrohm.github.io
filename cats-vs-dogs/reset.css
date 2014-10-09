@@ -133,8 +133,7 @@ article{
   	right: 450px;
     float:right; 
     clear: left;
-    word-spacing: 5px;
-
+    word-spacing: 25px;
     text-align: center;
 }
 .float{
@@ -142,7 +141,7 @@ article{
 	clear: left;
 	position: absolute;
 	top: 350px;
-	right: 440px;
+	right: 300px;
 }
 .left{
 	position: absolute;
