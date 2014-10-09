@@ -151,6 +151,7 @@ article{
 .right{
 	position: absolute;
 	float: right;
+	clear: left;
 	top: 0px;
 	right:0px;
 }
