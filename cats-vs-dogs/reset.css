@@ -90,10 +90,10 @@ li{
     word-spacing: 25px;
 }
 .word-space{
-	word-spacing: 20px;
+	word-spacing: 30px;
+	text-align: center;
 }
 
-}
 body{
 	width: 1000px;
 	margin: 0 auto;
@@ -108,6 +108,7 @@ width: 400px;
 }
 .width{
 	width: 400px;
+
 }
 
 .uppercase{
