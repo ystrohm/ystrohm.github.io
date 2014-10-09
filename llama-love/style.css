@@ -55,7 +55,6 @@ body{
 
 }
 h1 h2{
-	text-align: left;
 	font-size: 16px;
 	font-family: serif;
 	font-style: bold;
@@ -68,4 +67,8 @@ p{
 }
 article{
 	float: left;
+}
+
+.width{
+	width: 500px;
 }
