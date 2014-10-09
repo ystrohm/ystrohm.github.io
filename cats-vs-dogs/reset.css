@@ -123,9 +123,10 @@ article{
 
   #container li { 
   	position: relative;
-  	right: 550px;
+  	right: 450px;
     float:right; 
-
+    clear: left;
+    word-spacing: 5px;
     text-align: center;
 }
 .float{
@@ -138,5 +139,13 @@ article{
 .left{
 	position: absolute;
 	top:350px;
+	left:0px;
 }
+.right{
+
+	position: absolute;
+	top: 350px;
+	right:0px;
+}
+
 
