@@ -123,7 +123,7 @@ article{
 
   #container li { 
   	position: relative;
-  	right: 550px
+  	right: 550px;
     float:right; 
 
     text-align: center;
