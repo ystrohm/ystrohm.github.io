@@ -128,8 +128,7 @@ article{
 
 }	   
 
-  #container ul { 
-    width: 960px;
+  #container li { 
   	position: relative;
   	right: 450px;
     float:right; 
@@ -146,6 +145,8 @@ article{
 }
 .left{
 	position: absolute;
+	float: left;
+	
 	top:350px;
 }
 .right{
