@@ -129,8 +129,8 @@ article{
   #container li { 
   	position: relative;
   	right: 360px;
-    float:right; 
-    clear: left;
+    float:left; 
+    
     word-spacing: 55px;
     text-align: center;
 }
