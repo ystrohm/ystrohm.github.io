@@ -56,12 +56,16 @@ table {
 
 
 
-header{
-	text-align:center;
 
 
-}
+
+
 h1{
+	position: absolute;
+	top:10px:
+	right:450px;
+	float: left;
+
 	padding-bottom: 20px;
 }
 nav{
@@ -94,7 +98,7 @@ li{
 }
 
 body{
-	width: 1000px;
+	width: 960px;
 	margin: 0 auto;
 	padding:15px;
     font-family:"baskerville",serif;
@@ -144,12 +148,12 @@ article{
 	float: right;
 	clear: left;
 	position: absolute;
-	top: 350px;
+	top: 300px;
 	right: 300px;
 }
 .left{
 	position: absolute;
-	top:350px;
+	top:300px;
 }
 .right{
 	position: absolute;
