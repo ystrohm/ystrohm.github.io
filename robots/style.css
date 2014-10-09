@@ -72,6 +72,7 @@ h2{
 }
 p{
 	width: 350px;
+	font-size: 9px;
 	font-family: sans-serif;
 	font-weight: lighter;
 
@@ -84,6 +85,7 @@ p{
 	right: 0px;
 }
 #footer-contact{
+	margin-left: 20px;
 	position: absolute;
 	bottom: 0px;
 	left: 0px;
