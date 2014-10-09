@@ -130,10 +130,10 @@ article{
 
   #container li { 
   	position: relative;
-  	right: 450px;
+  	right: 300px;
     float:right; 
     clear: left;
-    word-spacing: 25px;
+    word-spacing: 55px;
     text-align: center;
 }
 .float{
@@ -146,5 +146,12 @@ article{
 .left{
 	position: absolute;
 	top:350px;
+}
+.right{
+	position: absolute;
+	float: right;
+	clear: left;
+	top: 0px;
+	right:0px;
 }
 
