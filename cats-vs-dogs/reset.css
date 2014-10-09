@@ -128,7 +128,7 @@ article{
 
   #container li { 
   	position: relative;
-  	right: 300px;
+  	right: 360px;
     float:right; 
     clear: left;
     word-spacing: 55px;
@@ -139,7 +139,7 @@ article{
 	clear: left;
 	position: absolute;
 	top: 300px;
-	right: 250px;
+	right: 220px;
 }
 .left{
 	position: absolute;
