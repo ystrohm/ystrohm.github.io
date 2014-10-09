@@ -84,6 +84,7 @@ li{
 	text-align: center;
 	position: absolute;
 	left:20px;
+	right: 20px;
    }
 .word-space{
 	word-spacing: 60px;
