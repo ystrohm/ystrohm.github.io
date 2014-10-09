@@ -35,8 +35,10 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 }
+
 ol, ul {
-	list-style: none;
+	border-top: 2px;
+	border-bottom: 2px;;
 }
 blockquote, q {
 	quotes: none;
@@ -68,8 +70,7 @@ header{
 	font-family:serif;
 	font-style:bold;
 	font-size:28px;
-	border-top: 2px;
-	border-bottom: 2px;
+
 
 }
 li{
