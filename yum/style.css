@@ -1,6 +1,6 @@
 
 body
-{ 
+{   
 	text-align: left;
 	font-style: normal;
 
@@ -46,8 +46,12 @@ ol{
 	padding: 10px;
 
 }
+.width
+{
+	width:450px; 
+
+}
 img {
 	float: right;
-
 
 }
