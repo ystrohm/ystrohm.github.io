@@ -72,6 +72,11 @@ nav{
 	
 
 }
+ul{
+	width: 960px;
+	text-align: center;
+	padding-bottom: 15px;
+}
 	
 li{
 	float: right;
