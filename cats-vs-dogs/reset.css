@@ -73,11 +73,9 @@ nav{
 
 }
 ul{
-	position: absolute;
-	left: 450px;
 	width: 960px;
 	text-align: center;
-
+	
 }
 	
 li{
