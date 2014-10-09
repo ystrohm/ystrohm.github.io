@@ -57,7 +57,7 @@ table {
 h1{
 	width: 960px;
 	text-align: center;
-	padding:5px;
+	padding-bottom: 20px;
 }
 nav{
 	font-family:sans-serif;
@@ -66,7 +66,7 @@ nav{
 	width: 960px;
 	height: 20px;
 	margin: 0 auto;
-	padding: 15px 0px 15px 0px;
+	padding: 15px 0px 10px 0px;
 	border-top: 2px solid black;
 	border-bottom: 2px solid black;
 	
@@ -83,6 +83,7 @@ li{
 	padding-right: 10px;
 	text-align: center;
 	position: absolute;
+	left:2px;
    }
 .word-space{
 	word-spacing: 60px;
