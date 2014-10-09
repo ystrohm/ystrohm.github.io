@@ -68,7 +68,8 @@ header{
 	font-family:serif;
 	font-style:bold;
 	font-size:28px;
-	word-spacing: 15px;
+	border-top: 2px;
+	border-bottom: 2px;
 
 }
 li{
