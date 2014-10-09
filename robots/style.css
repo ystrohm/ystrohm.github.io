@@ -32,7 +32,21 @@ footer, header, hgroup, menu, nav, section {
 	display: block;
 }
 body {
-	line-height: 1;
+	width: 960px;
+	margin: 0 auto;
+	
+
+
+}
+nav{
+	width: 960px;
+	font-family: Helvetica;
+	font-weight: bold;
+	background-color: black;
+	border: 1pt black;
+
+
+
 }
 ol, ul {
 	list-style: none;
@@ -49,4 +63,5 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
 
