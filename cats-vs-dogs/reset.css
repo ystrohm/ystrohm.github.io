@@ -140,12 +140,14 @@ article{
 	position: absolute;
 	top:350px;
 	left:0px;
+	padding: 20px;
 }
 .right{
 
 	position: absolute;
 	top: 0px;
 	right:0px;
+	padding: 20px
 }
 
 
