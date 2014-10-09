@@ -49,23 +49,22 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-
-
-
 body{
+	width: 1200px;
+	height: 700px;
 
 }
 h1 h2{
 	text-align: left;
-	font-size: 12px;
+	font-size: 16px;
 	font-family: serif;
+	font-style: bold;
 
 }
 p{
 	font-family: serif;
-	font-size: 9px;
+	font-size: 12px;
 	text-align: left;
-
 }
 article{
 	float: left;
