@@ -97,6 +97,7 @@ p{  float: left;
 }
 article{
 	float: left;
+	clear: left;
 	width: 350px;
 }
 #main-content{
