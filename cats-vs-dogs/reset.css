@@ -63,6 +63,14 @@ header{
 h1{
 	padding-bottom: 20px;
 }
+nav{	
+	width: 960px;
+	margin: 0 auto;
+	padding: 15px 0px 10px 0px;
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+	word-spacing: 100px
+}
 .nav{
 	width: 960px;
     text-align: center;
@@ -79,9 +87,6 @@ a{
 	text-align: center;
 	padding: 5px;
 	word-spacing: 5px;
-	border-top: 2px solid;
-	border-bottom: 2px solid
-
 }
 li{
 	float: right;
