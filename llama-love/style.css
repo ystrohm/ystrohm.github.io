@@ -50,6 +50,7 @@ table {
 	border-spacing: 0;
 }
 body{
+	color: red;
 	width: 1200px;
 	height: 700px;
 	padding: 10px;
