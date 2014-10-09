@@ -128,18 +128,18 @@ article{
 
   #container li { 
   	position: relative;
-  	right: 360px;
-    float:left; 
-    clear: left;
+  	right: 300px;
+    float:right; 
+  
     word-spacing: 55px;
-   
+    
 }
 .float{
 	float: right;
 	clear: left;
 	position: absolute;
 	top: 300px;
-	right: 220px;
+	right: 250px;
 }
 .left{
 	position: absolute;
