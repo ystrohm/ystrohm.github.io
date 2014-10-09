@@ -62,8 +62,8 @@ body{
 
 }
 img{
-
-	text-indent: left;
+	float: left;
+	clear: left;
 	padding-left: 5px;
 	padding-bottom: 10px;
 	padding-right: 5px;
