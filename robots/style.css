@@ -49,7 +49,7 @@ nav{
 
 }
 ol, ul {
-	
+
 	list-style: none;
 	float: left;
 	text-align: center;
@@ -73,7 +73,12 @@ p{
 	font-weight: lighter;
 
 }
+#footer-follow{
+	position: absolute;
+	bottom: 0px;
+	right: 0px;
 }
+
 blockquote:before, blockquote:after,
 q:before, q:after {
 	content: '';
