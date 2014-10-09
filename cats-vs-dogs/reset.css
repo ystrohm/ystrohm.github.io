@@ -65,11 +65,12 @@ h1{
 }
 nav{	
 	width: 960px;
+	height: 20px;
 	margin: 0 auto;
-	padding: 5px;
+	padding: 15px 0px 10px 0px;
 	border-top: 2px solid black;
 	border-bottom: 2px solid black;
-	word-spacing: 120px
+	word-spacing: 100px
 }
 	
 
