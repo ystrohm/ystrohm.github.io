@@ -57,7 +57,7 @@ table {
 h1{
 	width: 960px;
 	text-align: center;
-	padding-bottom: 20px;
+	padding:5px;
 }
 nav{
 	font-family:sans-serif;
@@ -72,10 +72,9 @@ nav{
 	
 
 }
-ul{
-	width: 960px;
+a{
 	text-align: center;
-	
+	padding: 5px;
 }
 	
 li{
