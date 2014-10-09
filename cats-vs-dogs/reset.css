@@ -65,13 +65,13 @@ nav{
 	width: 960px;
 	height: 20px;
 	margin: 0 auto;
-	position: absolute;
-	right: 10px;
 	padding: 15px 0px 10px 0px;
 	border-top: 2px solid black;
 	border-bottom: 2px solid black;
 }
 a{
+	position: absolute;
+	right: 10px;
 	padding: 5px;
 }
 	
