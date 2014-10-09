@@ -33,6 +33,8 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	width: 960px;
+	height: 780;
+	padding: 10px;
 	margin: 0 auto;
 
 
@@ -52,6 +54,7 @@ ol, ul {
 
 	list-style: none;
 	float: left;
+	clear: left;
 	text-align: center;
 }
 h1{
@@ -73,12 +76,17 @@ p{
 	font-weight: lighter;
 
 }
-#footer-follow{
+#footer-follow a{
 	float: right;
 	clear: left;
 	position: absolute;
 	bottom: 0px;
 	right: 0px;
+}
+#footer-contact{
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
 }
 
 blockquote:before, blockquote:after,
