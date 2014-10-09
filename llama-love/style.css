@@ -104,7 +104,7 @@ article{
 .float{
 	float: left;
 	position: absolute;
-	clear: right;
+	clear: left;
 
 }
 .width{
