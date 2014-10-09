@@ -74,6 +74,8 @@ p{
 
 }
 #footer-follow{
+	float: right;
+	clear: left;
 	position: absolute;
 	bottom: 0px;
 	right: 0px;
