@@ -78,9 +78,8 @@ li{
 	float: right;
 	padding-left: 10px;
 	padding-right: 10px;
-	text-align: center;
 	position: absolute;
-	left:5px;
+	
    }
 .word-space{
 	word-spacing: 60px;
@@ -129,7 +128,6 @@ article{
   	position: relative;
   	right: 300px;
     float:right; 
-  
     word-spacing: 55px;
     
 }
@@ -138,7 +136,7 @@ article{
 	clear: left;
 	position: absolute;
 	top: 300px;
-	right: 250px;
+	right: 220px;
 }
 .left{
 	position: absolute;
