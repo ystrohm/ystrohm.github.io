@@ -79,10 +79,12 @@ a{
 	
 li{
 	float: right;
+	padding-left: 10px;
+	padding-right: 10px;
 	text-align: center;
 	position: absolute;
 	right: 220px;
-   
+   word-spacing: 40px;
 }
 .word-space{
 	word-spacing: 60px;
