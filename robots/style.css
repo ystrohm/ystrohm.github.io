@@ -77,6 +77,10 @@ p{
 	font-weight: lighter;
 
 }
+#main-menu{
+	margin: 5px;
+	padding-bottom: 25px;
+}
 #footer-follow a{
 	float: right;
 	clear: left;
