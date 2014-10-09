@@ -130,9 +130,9 @@ article{
   	position: relative;
   	right: 360px;
     float:left; 
-    
+    clear: left;
     word-spacing: 55px;
-    text-align: center;
+   
 }
 .float{
 	float: right;
