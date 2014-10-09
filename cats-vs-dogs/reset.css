@@ -84,7 +84,7 @@ li{
 
 }
 body{
-	width: 960px;
+	width: 1000px;
 	margin: 0 auto;
 	padding:15px;
     font-family:"baskerville",serif;
@@ -101,9 +101,8 @@ width: 400px;
 
 .uppercase{
 	text-transform: uppercase;
-word-spacing: 20px}
-.pic{
-	<img class="pic" src="images/luke.jpg" width="400" height="400"
+word-spacing: 20px;
+
 }
 h2{
 	width:400px;
@@ -127,6 +126,7 @@ article{
     float:right; 
     clear: left;
     word-spacing: 5px;
+
     text-align: center;
 }
 .float{
@@ -138,18 +138,6 @@ article{
 }
 .left{
 	position: absolute;
-	margin:5px;
 	top:350px;
-	left:0px;
-	padding: 20px;
 }
-.right{
-
-	position: absolute;
-	margin: 5px;
-	top: 350px;
-	left:0px;
-	padding: 20px
-}
-
 
