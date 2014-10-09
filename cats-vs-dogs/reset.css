@@ -138,6 +138,7 @@ article{
 }
 .left{
 	position: absolute;
+	margin:5px;
 	top:350px;
 	left:0px;
 	padding: 20px;
@@ -145,8 +146,9 @@ article{
 .right{
 
 	position: absolute;
-	top: 0px;
-	left:5px;
+	margin: 5px;
+	top: 350px;
+	left:0px;
 	padding: 20px
 }
 
