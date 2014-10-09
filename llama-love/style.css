@@ -89,6 +89,7 @@ h2{
 
 }
 p{  float: left;
+	clear: left;
 	width: 350px;
 	padding: 15px;
 	font-family: sans-serif;
@@ -97,7 +98,6 @@ p{  float: left;
 }
 article{
 	float: left;
-	clear: left;
 	width: 350px;
 }
 #main-content{
