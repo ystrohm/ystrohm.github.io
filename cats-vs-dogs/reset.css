@@ -100,7 +100,8 @@ width: 400px;
 }
 
 .uppercase{
-	text-transform: uppercase;}
+	text-transform: uppercase;
+word-spacing: 20px}
 .pic{
 	<img class="pic" src="images/luke.jpg" width="400" height="400"
 }
