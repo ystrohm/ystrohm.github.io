@@ -43,18 +43,36 @@ nav{
 	font-family: Helvetica;
 	font-weight: bold;
 	background-color: black;
-	border: 1pt black;
+	border:black;
 	float: left;
 	text-align: center;
 
-
-
 }
 ol, ul {
+	
 	list-style: none;
+	float: left;
+	text-align: center;
 }
-blockquote, q {
-	quotes: none;
+h1{
+	padding-top: 20px;
+	padding-bottom: 5px;
+color: black;
+font-size: 24px;
+font-family: helvetica;
+font-weight: bold;
+
+}
+h2{
+	font-size: 16px;
+	font-family: helvetica;
+}
+p{
+	width: 350px;
+	font-family: sans-serif;
+	font-weight: lighter;
+
+}
 }
 blockquote:before, blockquote:after,
 q:before, q:after {
