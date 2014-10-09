@@ -79,7 +79,7 @@ a{
 	
 li{
 	float: right;
-	clear: left;
+	clear: right;
 	padding-left: 10px;
 	padding-right: 10px;
 	text-align: center;
