@@ -134,6 +134,7 @@ article{
     float:right; 
     clear: left;
     word-spacing: 5px;
+
     text-align: center;
 }
 .float{
@@ -145,8 +146,6 @@ article{
 }
 .left{
 	position: absolute;
-	float: left;
-	
 	top:350px;
 }
 .right{
