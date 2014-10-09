@@ -50,14 +50,15 @@ table {
 	border-spacing: 0;
 }
 body{
-	color: red;
 	width: 1200px;
 	height: 700px;
-	padding: 10px;
+	padding: 20px;
 	margin-top: 15px;
 	margin-left: 20px;
 	margin-bottom: 25px;
 	margin-right: 20px;
+	float: left;
+	clear: right;
 
 
 }
