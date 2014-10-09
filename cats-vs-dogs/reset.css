@@ -128,13 +128,12 @@ article{
 
 }	   
 
-  #container li { 
+  #container ul { 
   	position: relative;
   	right: 450px;
     float:right; 
     clear: left;
     word-spacing: 5px;
-
     text-align: center;
 }
 .float{
