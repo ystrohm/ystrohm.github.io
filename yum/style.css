@@ -12,6 +12,7 @@ h1{
 	font-family: helvetica;
 	padding-top: 10px;
 	padding-bottom: 15px;
+	-webkit-transform:rotate(90deg);
 
 }
 h2{
