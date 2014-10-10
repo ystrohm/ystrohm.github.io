@@ -67,11 +67,7 @@ nav{
 	border-top: 2px solid black;
 	border-bottom: 2px solid black;
 }
-a{
-	position: absolute;
-	right: 10px;
-	padding: 5px;
-}
+
 li{
 	display: inline-block;
 	padding-left: 10px;
