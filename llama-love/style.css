@@ -50,6 +50,7 @@ table {
 	border-spacing: 0;
 }
 body{
+	float: left;
 	width: 960;
 	height: 700px;
 	padding: 20px;
@@ -86,7 +87,6 @@ h2{
 
 }
 p{  float: right;
-	clear: left;
 	width: 350px;
 	padding-right:50px;
 	padding-left:50px;
