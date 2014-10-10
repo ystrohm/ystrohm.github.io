@@ -78,6 +78,7 @@ li{
 }
 
 body{
+	display: inline-block;
 	width: 960px;
 	margin: 0 auto;
 	padding:15px;
