@@ -39,6 +39,7 @@ body {
 ol, ul {
 	border-top: 2px;
 	border-bottom: 2px;
+	text-align: center;
 }
 blockquote, q {
 	quotes: none;
@@ -76,10 +77,10 @@ a{
 	padding: 5px;
 }
 li{
-	float: right;
+	display: inline-block;
 	padding-left: 10px;
 	padding-right: 10px;
-	position: absolute;
+	
 	
 	
 	
