@@ -6,7 +6,10 @@ body
 
 	}
 h1{
-	
+	float: left;
+	position: absolute;
+	top: 0px;
+	left: 0px;
 	font-size:40px;
 	font-weight: bold;
 	font-family: helvetica;
