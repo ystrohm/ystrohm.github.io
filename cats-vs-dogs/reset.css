@@ -81,18 +81,18 @@ li{
 body{
 	display: inline-block;
 	width: 960px;
-	margin:10%;
+	margin: 0 auto;
 	padding:15px;
     font-family:"baskerville",serif;
 	font-size: 16px;
 
 }
 p{
-width: 45%;
+width: 400px;
 
 }
 .width{
-	width: 45%;
+	width: 400px;
 	
 }
 
