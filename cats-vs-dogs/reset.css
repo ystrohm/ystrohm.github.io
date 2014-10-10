@@ -52,9 +52,7 @@ table {
 
 
 h1{
-	width: 960px;
-	text-align: center;
-	padding-bottom: 20px;
+	display: inline-block;
 }
 nav{
 
