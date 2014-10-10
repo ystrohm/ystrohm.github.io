@@ -58,7 +58,7 @@ header{
 	text-align: center;
 }
 nav{
-
+ 	text-align: center;
 	font-family:sans-serif;
 	font-size: 25px;
 	width: 850px;
@@ -86,7 +86,7 @@ body{
 	padding:15px;
     font-family:"baskerville",serif;
 	font-size: 16px;
-text-align: center;
+
 }
 p{
 width: 400px;
