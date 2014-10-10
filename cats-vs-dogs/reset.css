@@ -70,7 +70,9 @@ nav{
 }
 
 li{
+
 	display: inline-block;
+	margin-left: 20%;
 	padding-left: 10px;
 	padding-right: 10px;
 	list-style-type: disc;
