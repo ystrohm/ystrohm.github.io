@@ -54,6 +54,9 @@ table {
 h1{
 	display: inline-block;
 }
+header{
+	text-align: center;
+}
 nav{
 
 	font-family:sans-serif;
