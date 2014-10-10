@@ -68,9 +68,6 @@ nav{
 	border-top: 2px solid black;
 	border-bottom: 2px solid black;
 }
-.nav{
-	list-style-type: disc;
-}
 
 li{
 
@@ -127,6 +124,7 @@ article{
   	right: 300px;
     float:right; 
     word-spacing: 55px;
+    text-align: center;
     
 }
 .float{
