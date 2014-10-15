@@ -62,7 +62,6 @@ body{
 }
 img{
 	float: left;
-	clear: both;
 	padding-left: 5px;
 	padding-bottom: 10px;
 	padding-right: 5px;
@@ -104,7 +103,7 @@ article{
 .float{
 	float: left;
 	position: absolute;
-	clear: left;
+	
 
 }
 .width{
