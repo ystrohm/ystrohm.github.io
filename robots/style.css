@@ -57,9 +57,7 @@ ol, ul {
 	clear: left;
 	text-align: center;
 }
-li{
-	color: white;
-}
+
 h1{
 	padding-top: 20px;
 	padding-bottom: 5px;
@@ -107,7 +105,7 @@ body {
 	right:15px;
 	width:150px;
 	height:20px;
-	background-color:white;
+	background-color:none;
 }
 
 	
@@ -164,6 +162,8 @@ body {
 	right: 0px;
 }
 #footer-contact{
+	width: 20px;
+	font-size: 14px;
 	margin-left: 20px;
 	position: absolute;
 	bottom: 0px;
