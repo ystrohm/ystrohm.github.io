@@ -44,7 +44,6 @@ nav{
 	width: 960px;
 	font-family: Helvetica;
 	font-weight: bold;
-	text-decoration: none;
 	border:black;
 	float: left;
 	text-align: center;
@@ -83,6 +82,7 @@ p{
 body {
 	width:960px;
 	margin:0 auto;
+	background-color: yellow;
 }
 
 #site-header {
