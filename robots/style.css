@@ -94,7 +94,7 @@ body {
 	display:block;
 	width:250px;
 	height:100px;
-	background-color:none;
+	background-color:white;
 	left:15px;
 }
 #top-nav { 
@@ -102,7 +102,7 @@ body {
 	right:15px;
 	width:150px;
 	height:20px;
-	background-color:white;
+	background-color:none;
 }
 
 	
