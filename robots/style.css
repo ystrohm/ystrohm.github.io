@@ -115,6 +115,7 @@ body {
 	background-color:#4f3a11;
 }	
 #main-menu li{
+	color: white;
 	float:left;
 	display:block;
 	padding:10px;
