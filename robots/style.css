@@ -68,7 +68,9 @@ font-weight: bold;
 }
 h2{
 	font-size: 16px;
+	padding: 5px;
 	font-family: helvetica;
+	color: black;
 }
 p{
 	width: 350px;
@@ -133,8 +135,8 @@ body {
 	float:right;
 	width:30%;
 	margin-top:20px;
-	padding:10px;
-	background-color:#fffac2;
+	padding:15px;
+	
 }	
 
 #site-footer {
