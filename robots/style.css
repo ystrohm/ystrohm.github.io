@@ -77,73 +77,80 @@ p{
 	font-weight: lighter;
 
 }
+body {
+	width:960px;
+	margin:0 auto;
+}
 
 #site-header {
-      	width:50%;
-    	position:relative;
-	background-color:red;
-        height:100px;
-	margin:0 auto;
-    	
-}
- #header-background{
-    background-color:red;}
-  
-#site-header h1 {
-
-    position:absolute;
-    top:0px;
-    left:10px;
-    background-color:white;
+	position:relative;
+	height:120px;
+	background-color:#d4e0a3;
 	
 }
-#top-nav {    
-        position:absolute;
-    	top:0px;
-    	right:5px;
+
+#site-header h1 {
+	position:absolute;
+	display:block;
+	width:250px;
+	height:100px;
+	background-color:white;
+	left:15px;
+}
+#top-nav { 
+	position:absolute;
+	right:15px;
+	width:150px;
+	height:20px;
 	background-color:white;
 }
 
 	
 
 #main-menu {
-	
-	background-color:blue;
+	position:relative;
+	height:55px;
+	background-color:#4f3a11;
 }	
 #main-menu li{
-	
+	float:left;
+	display:block;
+	padding:10px;
+	margin:10px 0px 5px 15px;
 	background-color:white;
-  	float:left
-  }
+}	
 
 
-  #page
-  { 	width:60%;
-    	float:left;
+#page { 
+	float:left; 
+	width:60%;
 	background-color:#fffac2;
-   	clear:left
-	
+	margin:20px 15px;
+	padding:10px;
 }	
 
 #sidebar {
-    	float:right;
-    	width:40%;
-	background-color:red;
+	float:right;
+	width:30%;
+	margin-top:20px;
+	padding:10px;
+	background-color:#fffac2;
 }	
 
 #site-footer {
-    clear:both;
-	background-color:green;
+	clear:both;
+	position:relative;
+	height:55px;
+	background-color:#4f3a11;
 }
 
 #footer-content h1 {
-    background-color:white;}
-  
-   #main-content;
-    width:60%;
-    margin:o auto;
-	
+	background-color:white;
+	float:left;
+	width:20%;
+	margin:15px 15px;
 }
+
 #footer-follow a{
 	float: right;
 	clear: left;
