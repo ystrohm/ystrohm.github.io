@@ -109,4 +109,5 @@ article{
 }
 .width{
 	width: 300px;
+	clear: left;
 }
