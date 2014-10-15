@@ -19,7 +19,9 @@ h1{
 	-webkit-transform:rotate(90deg);
 
 }
-h2{
+h2{ position: absolute;
+	left: 25px;
+	top: 15px;
 	text-align: left;
 	font-size: 9px;
 	font-family: helvetica;
