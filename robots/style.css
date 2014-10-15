@@ -57,6 +57,9 @@ ol, ul {
 	clear: left;
 	text-align: center;
 }
+li{
+	color: white;
+}
 h1{
 	padding-top: 20px;
 	padding-bottom: 5px;
@@ -115,7 +118,6 @@ body {
 	background-color:#4f3a11;
 }	
 #main-menu li{
-	color: white;
 	float:left;
 	display:block;
 	padding:10px;
