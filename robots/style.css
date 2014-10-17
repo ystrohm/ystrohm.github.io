@@ -94,8 +94,9 @@ body {
 
 #site-header h1 {
 	position:absolute;
+	margin: 0 auto;
 	display:block;
-	width:250px;
+	width:80%;
 	height:100px;
 	background-color:none;
 	left:15px;
