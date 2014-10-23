@@ -85,7 +85,7 @@ h2{
 	color: gray;
 
 }
-p{  float: left;
+p{  
 	width: 350px;
 	padding-right:50px;
 	padding-left:50px;
@@ -96,8 +96,6 @@ p{  float: left;
 article{
 	float: left;
 	width: 350px;
-}
-#main-content{
 
 }
 .float{
