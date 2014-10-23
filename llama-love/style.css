@@ -95,11 +95,11 @@ p{
 }
 article{
 	float: left;
-	clear: both;
+	clear: left;
 	width: 350px;
 }
 .img1{
-	
+	float: left;
 
 }
 }
