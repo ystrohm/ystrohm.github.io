@@ -109,12 +109,10 @@ body {
 	background-color:none;
 }
 
-	
-
 #main-menu {
 	position:relative;
 	height:55px;
-	background-color:#4f3a11;
+	background-color:red;
 }	
 #main-menu li{
 	float:left;
@@ -124,11 +122,10 @@ body {
 	background-color:none;
 }	
 
-
 #page { 
 	float:left; 
 	width:60%;
-	background-color:#fffac2;
+	background-color:blue;
 	margin:20px 15px;
 	padding:10px;
 }	
