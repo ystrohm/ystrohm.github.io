@@ -95,8 +95,13 @@ p{
 }
 article{
 	float: left;
+	clear: both;
 	width: 350px;
+}
+.img1{
+	float: left;
 
+}
 }
 .float{
 	float: left;
