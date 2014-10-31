@@ -6,6 +6,16 @@
    v2.0 | 20110126
    License: none (public domain)
 */
+@font-face {
+    font-family: 'league_gothicregular';
+    src: url('leaguegothic-regular-webfont.eot');
+    src: url('leaguegothic-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('leaguegothic-regular-webfont.woff2') format('woff2'),
+         url('leaguegothic-regular-webfont.woff') format('woff'),
+         url('leaguegothic-regular-webfont.ttf') format('truetype'),
+         url('leaguegothic-regular-webfont.svg#league_gothicregular') format('svg');
+    font-weight: normal;
+    font-style: normal;}
 
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -28,6 +38,7 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
+
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
 	display: block;
@@ -51,6 +62,7 @@ table {
 }
 
 h1{
+	font-family: 'league_gothicregular';
 	display: inline-block;
 }
 header{
@@ -86,7 +98,6 @@ body{
 	padding:15px;
     font-family:"baskerville",serif;
 	font-size: 16px;
-	
 
 }
 p{
