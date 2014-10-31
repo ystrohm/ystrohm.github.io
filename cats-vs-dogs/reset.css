@@ -62,7 +62,6 @@ table {
 }
 
 h1{
-	font-family: 'league_gothicregular';
 	display: inline-block;
 }
 header{
@@ -115,6 +114,7 @@ width: 400px;
 
 }
 h2{
+	font-family: 'league_gothicregular';
 	width:400px;
 	margin:0 auto;
 	top:15px
