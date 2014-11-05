@@ -87,6 +87,8 @@ li{
 	display: inline-block;
 	padding-right: 15px;
 	padding-left: 15px;
+	padding-top: 10px;
+	padding-bottom: 10px;
 	list-style-type: disc;
    }
 .word-space{
