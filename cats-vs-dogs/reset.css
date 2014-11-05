@@ -83,7 +83,7 @@ nav{
 	border-bottom: 2px solid black;
 }
 
-li{
+li{ float: left;
 	width: 700px;
 	display: inline-block;
 	padding-right: 15px;
