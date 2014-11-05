@@ -83,12 +83,11 @@ nav{
 	border-bottom: 2px solid black;
 }
 
-li{ float: left;
-	width: 700px;
+li{
 	display: inline-block;
 	padding-right: 15px;
 	padding-left: 15px;
-	margin-left: 15px;
+	margin-left: 10px;
 	margin-right: 10px;
 	list-style-type: disc;
    }
