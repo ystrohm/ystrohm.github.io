@@ -84,6 +84,7 @@ nav{
 }
 
 li{
+	width: 960px;
 	display: inline-block;
 	padding-right: 15px;
 	padding-left: 15px;
