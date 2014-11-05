@@ -84,9 +84,8 @@ nav{
 }
 
 li{
-
-
 	display: inline-block;
+	width: 960px;
 	padding-right: 50px;
 	padding-left: 50px;
 	list-style-type: disc;
