@@ -72,6 +72,7 @@ header{
 	text-align: center;
 }
 nav{
+	float: left;
  	text-align: center;
 	font-family:sans-serif;
 	font-size: 25px;
