@@ -25,9 +25,3 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
-
-body{
-	width: 100px;
-	margin: 15px;
-	padding: 10px;
-}
