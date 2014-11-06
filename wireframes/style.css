@@ -27,7 +27,7 @@ time, mark, audio, video {
 /* HTML5 display-role reset for older browsers */
 
 body{
-	width: 600px;
+	width: 100px;
 	margin: 15px;
 	padding: 10px;
 }
