@@ -35,8 +35,11 @@ body {
 	line-height: 1;
 }
 ol, ul {
+	text-align:center;
 	list-style: none;
 }
+.nav{width:960px;}
+
 blockquote, q {
 	quotes: none;
 }
@@ -49,6 +52,7 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
 body{
 	float:left;
 	width: 960;
