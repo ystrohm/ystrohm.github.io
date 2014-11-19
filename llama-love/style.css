@@ -86,7 +86,7 @@ h2{
 
 }
 p{  
-	width: 350px;
+	
 	padding-right:50px;
 	padding-left:50px;
 	font-family: sans-serif;
@@ -106,13 +106,11 @@ article{
 	position: absolute;	
 
 }
-.width{
-	width: 300px;
-	
-}
+
+
 
 #footer-wrapper{
-	position:relative
+	position:relative;
 	float:left;
 	bottom:0px;
 	left:0px;
