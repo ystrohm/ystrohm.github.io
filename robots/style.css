@@ -41,20 +41,25 @@ body {
 
 }
 nav{
+	background-color:brown;
 	width: 960px;
 	font-family: Helvetica;
 	font-weight: bold;
 	border:black;
 	float: left;
+	text-decoration:none;
 	text-align: center;
 
 }
 ol, ul {
-
+	
+    background-color:brown;
+	font-color:white;
 	list-style: none;
 	float: left;
 	clear: left;
 	text-align: center;
+	text-decoration:none;
 }
 
 h1{
@@ -106,12 +111,14 @@ body {
 	width:150px;
 	height:20px;
 	background-color:none;
-}
+    text-decoration:none;
+	}
 
 #main-menu {
 	position:relative;
 	height:55px;
-	background-color:red;
+	text-decoration:none;
+	background-color:brown;
 }	
 #main-menu li{
 	float:left;
@@ -119,6 +126,7 @@ body {
 	padding:10px;
 	margin:10px 0px 5px 15px;
 	background-color:none;
+	font-color:white;
 }	
 
 #page { 
@@ -134,14 +142,14 @@ body {
 	width:30%;
 	margin-top:20px;
 	padding:15px;
-	text-decoration: none;
+	text-decoration:none;
 	
 }	
 #site-footer {
 	clear:both;
 	position:relative;
 	height:55px;
-	background-color:#4f3a11;
+	background-color:brown;
 }
 
 #footer-content h1 {

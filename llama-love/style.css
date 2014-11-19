@@ -100,20 +100,27 @@ article{
 .img1{
 	float: left;
 }
-}
+
 .float{
 	float: left;
-	position: absolute;
-	
+	position: absolute;	
 
 }
 .width{
 	width: 300px;
 	
 }
-footer{
-	position:absolute;
+
+#footer-wrapper{
+	position:relative
+	float:left;
 	bottom:0px;
 	left:0px;
-	float left;
+}
+#site-footer{
+	postion:absolute;
+	float:left;
+	bottom:0px;
+	left:0px;
+	
 }
