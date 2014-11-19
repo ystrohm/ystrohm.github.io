@@ -85,7 +85,7 @@ h2{
 	color: gray;
 
 }
-p{  position: absolute;
+p{  
 	width: 350px;
 	padding-right:50px;
 	padding-left:50px;
@@ -95,7 +95,7 @@ p{  position: absolute;
 }
 article{
 	float: right;
-	clear: left;
+	
 	width: 350px;
 }
 .img1{
@@ -110,5 +110,5 @@ article{
 }
 .width{
 	width: 300px;
-	clear: left;
+	
 }
