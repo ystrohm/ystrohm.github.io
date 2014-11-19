@@ -113,6 +113,7 @@ a{font-color:brown;
 	height:20px;
 	background-color:none;
     text-decoration:none;
+	font-color:white;
 	}
 
 #main-menu {
@@ -120,6 +121,7 @@ a{font-color:brown;
 	height:55px;
 	text-decoration:none;
 	background-color:brown;
+	font-color:white;
 }	
 #main-menu li{
 	float:left;
@@ -169,11 +171,11 @@ a{font-color:brown;
 #footer-follow a{
 	float: right;
 	clear: left;
-	position: absolute;
-	bottom: 0px;
-	right: 0px;
+	
+	
 }
 #footer-contact{
+	width:40px;
 	font-size: 14px;
 	margin-left: 20px;
 	position: absolute;
