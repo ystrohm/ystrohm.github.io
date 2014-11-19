@@ -50,7 +50,7 @@ table {
 	border-spacing: 0;
 }
 body{
-	
+	float:left;
 	width: 960;
 	height: 700px;
 	padding: 20px;
@@ -62,9 +62,9 @@ body{
 }
 img{
 	float: left;
-	padding-left: 5px;
+	padding-left: 15px;
 	padding-bottom: 10px;
-	padding-right: 5px;
+	padding-right: 15px;
 	padding-top: 10px;
 }
    
