@@ -30,7 +30,7 @@ footer, header, hgroup, menu, nav, section {
 }
 
 body{ 
-	width: 640px;
+	width: 67%;
 	margin: 0 auto;
 	padding: 10px;
 	position: absolute;
@@ -38,8 +38,10 @@ body{
 	left: 130px;
 
 }
+h1
+{width:100%}
 nav{
-	width: 640px;
+	width: 67%;
 	font-size: 24px;
 	font-family: sans-serif;
 	float: right;
