@@ -36,7 +36,7 @@ body{
 }
 p{font-family: sans-serif;
 font-size: 10px;
-
+}
 h1{
 	position: absolute;
 	z-index: +11;
@@ -62,7 +62,7 @@ code{
 	top: 250px;
 }
 p{position: absolute;
-top: 500px;}
+top: 580px;}
 
 ol, ul {
 	width: 50%;
