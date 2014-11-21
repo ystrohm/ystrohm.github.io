@@ -26,7 +26,7 @@
 	 <div id='site-wrapper'>
   <header id='site-header'>
  <h1>
- 	<a href="portfolio_home.html">
+ 	<a href="porfolio_home.html">
   	<img src='images/ys_DESIGN_LOGO.png' width="240" height="180"alt="logo"/>
   </a>
   </h1>
@@ -41,13 +41,13 @@
   		</ul>
   	</nav>
   	</div>
-    <h2>Accordion Book<h2/>
 	<p>
-		
-    <div id="accordion">
+		<div id="accordion">
+
 </a>
 <a class="fancybox" rel="gallery1" href="images/book/JPEG/book1.jpg" title="Cover">
   <img src="images/book/JPEG/book1.jpg" alt="book" />
+  <p>Plastic Pollution Accordion Book</p>
 </a>
 <a class="fancybox" rel="gallery1" href="images/book/JPEG/book2.jpg" title="Spread 1">
   <img src="images/book/JPEG/book2.jpg" alt="book" />
@@ -71,7 +71,13 @@
 <a class="fancybox" rel="gallery1" href="images/book/JPEG/book8.jpg" title="Spread 7">
   <img src="images/book/JPEG/book8.jpg" alt="book" />
 </a>
-
+<a class="fancybox" rel="gallery1" href="images/Futura_Specimen.jpg" width="140" height="300" title="futura">
+  <img src='images/Futura_Specimen.jpg'width="440" height="600" alt="futura" />
+    <p>Futura Specimen</p>
+</a>
+<a class="fancybox" rel="gallery1" href="images/Rule4_pattern3.jpg" title="Pattern1">
+  <img src="images/Rule4_pattern3.jpg" alt="pat1" />
+    <p>Pattern Design</p>
 
 
 </div>	
