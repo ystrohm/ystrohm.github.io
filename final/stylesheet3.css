@@ -98,7 +98,7 @@ ol, ul {
 	font-size: 14px;
 }
 	#accordion{ 
-		width: 75%;
+		width: 100%;
 		position: absolute;
 		top: 180px;
 		border-left-style:solid;
