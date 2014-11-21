@@ -36,40 +36,20 @@
   <nav id='main-menu'>
   	<ul>
   			<li><a href="page1.html">Home</a></li>
-  			<li><a href="portfolio.html">Portfolio</a></li>
+  			<li><a href="portfolio_home.html">Portfolio</a></li>
   			<li><a href="contact.html">Contact</a></li>
   		</ul>
   	</nav>
   	</div>
-    <h2>Accordion Book<h2/>
 	<p>
-		
-    <div id="accordion">
+		<div id="accordion">
+
 </a>
 <a class="fancybox" rel="gallery1" href="images/book/JPEG/book1.jpg" title="Cover">
+  <a href="porfolio.html">
   <img src="images/book/JPEG/book1.jpg" alt="book" />
+  <p>Plastic Pollution Accordion Book</p>
 </a>
-<a class="fancybox" rel="gallery1" href="images/book/JPEG/book2.jpg" title="Spread 1">
-  <img src="images/book/JPEG/book2.jpg" alt="book" />
-</a>
-<a class="fancybox" rel="gallery1" href="images/book/JPEG/book3.jpg" title="Spread 2">
-  <img src="images/book/JPEG/book3.jpg" alt="book" />
-</a>
-<a class="fancybox" rel="gallery1" href="images/book/JPEG/book4.jpg" title="Spread 3">
-  <img src="images/book/JPEG/book4.jpg" alt="book" />
-</a>
-<a class="fancybox" rel="gallery1" href="images/book/JPEG/book5.jpg" title="Spread 4">
-  <img src="images/book/JPEG/book5.jpg" alt="book" />
-  </a>
-<a class="fancybox" rel="gallery1" href="images/book/JPEG/book6.jpg" title="Spread 5">
-  <img src="images/book/JPEG/book6.jpg" alt="book" />
-</a>
-<a class="fancybox" rel="gallery1" href="images/book/JPEG/book7.jpg" title="Spread 6">
-  <img src="images/book/JPEG/book7.jpg" alt="book" />
-</a>
-
-<a class="fancybox" rel="gallery1" href="images/book/JPEG/book8.jpg" title="Spread 7">
-  <img src="images/book/JPEG/book8.jpg" alt="book" />
 </a>
 
 

@@ -49,6 +49,13 @@ h1{
 	z-index: +11;
 	top:50px;
 }
+h2{color: black;
+position: absolute;
+top: 300px;
+left: 185px;
+font-family: sans-serif;
+font-size: 26px;
+}
 nav{
 	width:100%;
 	font-size: 24px;
