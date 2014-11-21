@@ -30,7 +30,7 @@ footer, header, hgroup, menu, nav, section {
 }
 
 body{ 
-	width: 100%;
+	width: 67%;
 	margin: 0 auto;
 	padding: 10px;
 }
@@ -43,8 +43,6 @@ h1{
 	top:60px;
 
 }
-img{float: left;
-clear: left;}
 nav{
 	width:100%;
 	font-size: 24px;
@@ -75,7 +73,7 @@ ol, ul {
 	margin-right: 10px;
 	list-style-type: disc;}
 
-	#main-menu{
+#main-menu{
 	position:relative;
 	position: fixed;
 	top:0px;
@@ -85,7 +83,7 @@ ol, ul {
 	background-color:black;
 	}
 
-	#main-menu li{
+#main-menu li{
 	float:left;
 	text-align: right;
 	display:block;
@@ -98,7 +96,7 @@ ol, ul {
 	color: white;
 	font-size: 14px;
 }
-	#accordion{ 
+#accordion{ 
 		width: 100%;
 		position: absolute;
 		top: 200px;
