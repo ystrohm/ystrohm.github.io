@@ -38,7 +38,11 @@ ol, ul {
 	text-align:center;
 	list-style: none;
 }
-.nav{width:960px;}
+#nav{width:100%;}
+
+li{
+	text-align:center;
+}
 
 blockquote, q {
 	quotes: none;
@@ -65,6 +69,7 @@ body{
 
 }
 img{
+	width:100%;
 	float: left;
 	padding-left: 15px;
 	padding-bottom: 10px;
@@ -80,7 +85,7 @@ h1{
 	padding-left: 5px;
 	padding-bottom: 2px;
 }
-h2{ 
+h2{ width:100%;
 	padding-top: 5px;
 	padding-left: 5px;
 	padding-bottom: 10px;
@@ -90,7 +95,7 @@ h2{
 
 }
 p{  
-	
+	width:100%;
 	padding-right:50px;
 	padding-left:50px;
 	font-family: sans-serif;
@@ -107,22 +112,11 @@ article{
 
 .float{
 	float: left;
-	position: absolute;	
-
-}
-
-
-
-#footer-wrapper{
-	position:relative;
-	float:left;
-	bottom:0px;
-	left:0px;
+		
 }
 #site-footer{
 	postion:absolute;
-	float:left;
-	bottom:0px;
-	left:0px;
+	top:75%;
+	left:10%;
 	
 }
