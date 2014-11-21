@@ -28,7 +28,6 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
-
 body{ 
 	width: 640px;
 	margin: 0 auto;
@@ -36,40 +35,64 @@ body{
 
 }
 p{
-	width: 450px;
-	font-family: sans-serif;
-	font-size: 12px;
+	position: absolute;
+	top: 150px;
+	width: 50%;
+font-family: sans-serif;
+font-size: 10px;
+padding: 20px;}
+h1{
+	position: absolute;
+	z-index: +11;
+	top:20px;
 }
 nav{
-	width: 80px;
-	font-size: 24px;
+	width:100%;
 	font-family: sans-serif;
 	float: right;
 	text-align: center;
+	color: white;
 }
+a{
+	color: black;
+	text-decoration: none;
+	font-size: 16px;
+}
+
 ol, ul {
+
+	color: black;
+	width: 400px;
 	list-style: none;
 	float: right;
 	clear: right;
 	text-align: center;}
 
-	a{
-	text-decoration: none;
+	li{
 	color: black;
-	font-size: 16px;
-}
+	display: inline-block;
+	padding-right: 15px;
+	padding-left: 15px;
+	margin-left: 10px;
+	margin-right: 10px;
+	list-style-type: disc;}
 
 	#main-menu{
-	position:absolute;
+	position:relative;
 	position: fixed;
-	top: 160px;left: 590px;
-	height:55px;
-	border-top: 2px:solid;
-	background-color:transparent;
+	top:0px;
+	left:0px;
+	z-index:+10;
+	height:10%;
+	background-color:white;
 	}
+
 	#main-menu li{
+
 	float:left;
 	display:block;
 	padding:5px;
 	margin:5px;
-	background-color:transparent;
+	background-color:none;
+}
+
