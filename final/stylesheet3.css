@@ -30,7 +30,7 @@ footer, header, hgroup, menu, nav, section {
 }
 
 body{ 
-	width: 640px;
+	width: 67%;
 	margin: 0 auto;
 	padding: 10px;
 
@@ -59,13 +59,11 @@ a{
 
 ol, ul {
 	
-	color: black;
 	width: 400px;
 	list-style: none;
 	float: right;
 	clear: right;
 	text-align: center;}
-
 
 	li{
 	color: black;
@@ -83,7 +81,8 @@ ol, ul {
 	left:0px;
 	z-index:+10;
 	height:55px;
-	background-color:white;
+	background-color:black;
+
 	}
 
 	#main-menu li{
@@ -94,6 +93,10 @@ ol, ul {
 	padding:5px;
 	margin:5px;
 	background-color:none;
+	color: white;
+}
+#main-menu a{
+	color: white;
 }
 	#accordion{ 
 		width: 75%;
