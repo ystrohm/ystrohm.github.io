@@ -101,14 +101,6 @@ nav{
 	margin:10px 0px 5px 15px;
 	background-color:none;
 	font-color:black;}
-
-li{
-	display: inline-block;
-	padding-right: 15px;
-	padding-left: 15px;
-	margin-left: 10px;
-	margin-right: 10px;
-	list-style-type: disc;
    }
 .word-space{
 	word-spacing: 60px;
@@ -134,7 +126,7 @@ body{
 }
 #luke p{
 	float: left;
-	width: 75%;}
+	width: 100%;}
 
 #cat{
 	padding: 5px;
@@ -147,7 +139,7 @@ body{
 }
 #cat p{
 	float: left;
-	width: 75%;}
+	width: 100%;}
 p{
 width: 50%;
 margin:0 auto;
