@@ -31,9 +31,8 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
-body {
-	line-height: 1;
-}
+
+#llama1{float:left;}
 ol, ul {
 	text-align:center;
 	list-style: none;
@@ -69,7 +68,8 @@ body{
 
 }
 img{
-	width:100%;
+	hight:50%;
+	width:50%;
 	float: left;
 	padding-left: 15px;
 	padding-bottom: 10px;
@@ -95,7 +95,7 @@ h2{ width:100%;
 
 }
 p{  
-	width:100%;
+	width:85%;
 	padding-right:50px;
 	padding-left:50px;
 	font-family: sans-serif;

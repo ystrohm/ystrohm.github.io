@@ -33,12 +33,15 @@ body{
 	width: 67%;
 	margin: 0 auto;
 	padding: 10px;
+	background-color: rgb(252,250,210);
 }
 p
 {font-family: sans-serif;
-font-size: 25px;
+font-size: 20px;
+font-weight: bold;
 padding: top:5px;
-bottom:5px;}
+bottom:5px;
+color: black;}
 h1{
 	position: absolute;
 	z-index: +11;
@@ -102,11 +105,13 @@ ol, ul {
 		width: 100%;
 		position: absolute;
 		top: 200px;
-		
+		}
 
+#accordion img{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
 
-
-	}
 
 
 
