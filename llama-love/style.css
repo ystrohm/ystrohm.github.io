@@ -68,7 +68,7 @@ body{
 
 }
 img{
-	hight:50%;
+	height:50%;
 	width:50%;
 	float: left;
 	padding-left: 15px;
@@ -113,7 +113,7 @@ article{
 		
 }
 #site-footer{
-	postion:absolute;
+	position:absolute;
 	top:75%;
 	left:10%;
 	
