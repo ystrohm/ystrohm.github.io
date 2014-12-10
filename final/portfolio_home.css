@@ -33,7 +33,7 @@ body{
 	width: 67%;
 	margin: 0 auto;
 	padding: 10px;
-	background-color: rgb(252,250,210);
+	
 }
 p
 {font-family: sans-serif;
@@ -110,6 +110,7 @@ ol, ul {
 #accordion img{
 	padding-top: 20px;
 	padding-bottom: 20px;
+	border: solid:2px;
 }
 
 
