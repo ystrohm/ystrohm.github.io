@@ -187,7 +187,6 @@ article{
 	padding: 5px;
 	position: absolute;
 	float: right;
-	clear: left;
 	top: 200px;
 	right:0px;
 
@@ -197,18 +196,14 @@ article{
 	padding: 5px;
 	text-align: left;
 }
-#footer{
+#site-footer{
 	position: absolute;
-	top: 500px;
+	top: 800px;
 }
 @media screen (max-width:480px)
 article {float:none;
 	width:50%;
-	margin:0 1%;
+	margin:0 auto;
 }
 	
 
-.hamburger{
-	display:block;
-	width:50px;
-}
