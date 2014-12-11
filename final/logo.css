@@ -54,6 +54,10 @@ nav{
   text-align: center;
   color: white;
 }
+img{
+	max-width:100%
+	
+}
 a{
   color: black;
   text-decoration: none;
